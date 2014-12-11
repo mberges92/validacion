@@ -1,0 +1,7 @@
+{
+  "name": "validacion",
+  "private": true,
+  "dependencies": {
+    "jquery-validate": "~1.13.1"
+  }
+}

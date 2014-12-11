@@ -1,0 +1,4 @@
+.important{color:red; font-weight:bold;}
+label{display:inline-block; width:200px;}
+input[type="submit"]{margin-left:200px;}
+div {margin:5px;}
