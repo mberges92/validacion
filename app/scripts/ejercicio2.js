@@ -1,5 +1,6 @@
 $("#formulario").validate({
-    onkeyup: false,
-    onfocusout: false,
-    onclick: false
+	debug: true,
+	onkeyup: false,
+	onfocusout: false,
+	onclick: false
 });
